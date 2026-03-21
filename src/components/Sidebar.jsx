@@ -87,7 +87,7 @@ function Sidebar() {
           {/* フッター部分（固定） */}
           <div className="flex-shrink-0 p-6 border-t bg-white">
             <p className="text-xs text-gray-500 text-center">
-              © 2024 ポモドーロタイマー
+              © 2026 ポモドーロタイマー
             </p>
           </div>
         </div>
