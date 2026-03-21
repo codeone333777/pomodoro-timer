@@ -188,7 +188,6 @@ function Contact() {
             <strong>注意事項：</strong>
           </p>
           <ul className="text-sm text-gray-600 list-disc list-inside mt-2 space-y-1">
-            <li>通常、1〜3営業日以内に返信いたします</li>
             <li>迷惑メール設定により返信が届かない場合があります</li>
             <li>個人情報は適切に管理し、第三者に提供することはありません</li>
           </ul>
