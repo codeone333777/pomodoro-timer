@@ -21,7 +21,7 @@ function ScrollToTop() {
 
 function App() {
   return (
-    <Router>
+    <Router basename="/pomodoro-timer">
       <ScrollToTop />
       <div className="relative">
         <Sidebar />
